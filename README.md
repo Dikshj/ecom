@@ -2,6 +2,9 @@
 
 
 
+![image](https://github.com/Dikshj/ecom/assets/95473935/80d06443-f548-4a98-afdc-12e47006b38a)
+![image](https://github.com/Dikshj/ecom/assets/95473935/18aadc03-53ed-4042-b440-0885dcbadd75)
+
 
 
 
