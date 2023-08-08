@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'rails',        '5.1.4'
+gem 'rails', '>= 5.2', '< 7.0'
+
 gem 'bcrypt', git: 'https://github.com/codahale/bcrypt-ruby.git', :require => 'bcrypt'
 gem 'faker', '~> 1.8', '>= 1.8.7'
 gem 'carrierwave',             '1.3.2'
